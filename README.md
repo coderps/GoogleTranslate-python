@@ -21,7 +21,7 @@ pip install googletrans
 # <Translated src=la dest=en text=The truth is my light pronunciation=The truth is my light>
 ```
 
-For a detailed documentation, go to this [page]https://pypi.org/project/googletrans/
+For a detailed documentation, go to this [page](https://pypi.org/project/googletrans/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
